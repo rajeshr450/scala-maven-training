@@ -8,7 +8,7 @@
 *derby.log
 
 # Leave target directory
-*/target/*
+*scalatraining/target/*
 */metastore_db*
 */spark-warehouse*
 */output*
